@@ -94,6 +94,15 @@ input:focus {
     background-color: #B0BEC5;
 }
 
+.copyright-logo{
+    display: flex;
+    padding-top: 90px;
+}
+
+.copyright-2023{
+    text-align: right;
+}
+
 @media screen and (max-width: 500px) {
     .card1 {
         padding-left: 26px;
